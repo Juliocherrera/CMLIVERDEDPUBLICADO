@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\APPLIVERDEDCM\APPLIVERDEDCM\bin\Debug\APPLIVERDEDCM.exe.config
+C:\Users\Lenovo\source\repos\APPLIVERDEDCM\APPLIVERDEDCM\bin\Debug\APPLIVERDEDCM.exe.manifest
+C:\Users\Lenovo\source\repos\APPLIVERDEDCM\APPLIVERDEDCM\bin\Debug\APPLIVERDEDCM.application
+C:\Users\Lenovo\source\repos\APPLIVERDEDCM\APPLIVERDEDCM\bin\Debug\APPLIVERDEDCM.exe
+C:\Users\Lenovo\source\repos\APPLIVERDEDCM\APPLIVERDEDCM\bin\Debug\APPLIVERDEDCM.pdb
+C:\Users\Lenovo\source\repos\APPLIVERDEDCM\APPLIVERDEDCM\obj\Debug\APPLIVERDEDCM.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\APPLIVERDEDCM\APPLIVERDEDCM\obj\Debug\APPLIVERDEDCM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\APPLIVERDEDCM\APPLIVERDEDCM\obj\Debug\APPLIVERDEDCM.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\APPLIVERDEDCM\APPLIVERDEDCM\obj\Debug\APPLIVERDEDCM.exe.manifest
+C:\Users\Lenovo\source\repos\APPLIVERDEDCM\APPLIVERDEDCM\obj\Debug\APPLIVERDEDCM.application
+C:\Users\Lenovo\source\repos\APPLIVERDEDCM\APPLIVERDEDCM\obj\Debug\APPLIVERDEDCM.exe
+C:\Users\Lenovo\source\repos\APPLIVERDEDCM\APPLIVERDEDCM\obj\Debug\APPLIVERDEDCM.pdb
